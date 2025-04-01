@@ -6,7 +6,7 @@ plugins {
     id("net.minecrell.plugin-yml.bukkit") version "0.6.0"
     id("xyz.jpenilla.run-paper") version "2.3.0"
 
-    id("io.papermc.paperweight.userdev") version "1.7.4"
+    id("io.papermc.paperweight.userdev") version "1.7.7"
 }
 
 group = "dev.thezexquex"
